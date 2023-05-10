@@ -8,11 +8,11 @@ This project demonstrates the usage of a pre-trained model in TensorFlow.js for 
 
 1. Clone the repository:
 ```
-git clone https://github.com/octopols/multipleImageDetectionDemo.git
+git clone https://github.com/octopols/Multiple-Overlapping-Object-Detection.git
 ```
 2. Navigate to the project directory:
 ```
-cd multipleImageDetectionDemo
+cd Multiple-Overlapping-Object-Detection
 ```
 3. Open the project in a web browser:
    - You can use a local development server such as Live Server or serve the files using Python's built-in HTTP server. For example, using Python 3:
