@@ -7,9 +7,9 @@ This project demonstrates the usage of a pre-trained model in TensorFlow.js for 
 ## Setup
 
 1. Clone the repository:
-
+```
 git clone https://github.com/octopols/multipleImageDetectionDemo.git
-
+```
 2. Navigate to the project directory:
 
 cd your-repo
