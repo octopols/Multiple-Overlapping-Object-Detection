@@ -15,7 +15,6 @@ git clone https://github.com/octopols/multipleImageDetectionDemo.git
 cd your-repo
 
 3. Open the project in a web browser:
-   - You can simply open the `index.html` file in your preferred browser.
    - Alternatively, you can use a local development server such as Live Server or serve the files using Python's built-in HTTP server. For example, using Python 3:
 
 python3 -m http.server
