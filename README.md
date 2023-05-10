@@ -1,4 +1,4 @@
-# Multiple Object Detection using Pre-Trained Model in TensorFlow.js
+# Multiple Overlapping Object Detection
 
 This project demonstrates the usage of a pre-trained model in TensorFlow.js for performing multiple (overlapping) object detection in images. It utilizes the COCO-SSD model to recognize objects and their positions with high accuracy.
 
@@ -11,12 +11,11 @@ This project demonstrates the usage of a pre-trained model in TensorFlow.js for 
 git clone https://github.com/octopols/multipleImageDetectionDemo.git
 ```
 2. Navigate to the project directory:
-
-cd your-repo
-
+```
+cd multipleImageDetectionDemo
+```
 3. Open the project in a web browser:
-   - You can simply open the `index.html` file in your preferred browser.
-   - Alternatively, you can use a local development server such as Live Server or serve the files using Python's built-in HTTP server. For example, using Python 3:
+   - You can use a local development server such as Live Server or serve the files using Python's built-in HTTP server. For example, using Python 3:
 
 python3 -m http.server
 
